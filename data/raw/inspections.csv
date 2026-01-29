@@ -1,0 +1,6 @@
+inspection_id,property_address,city,inspection_type,inspection_date,room,defect,severity
+1,12 rue Oberkampf,Paris,entry,2024-01-10,Salon,,low
+2,12 rue Oberkampf,Paris,exit,2025-01-10,Salon,Rayure parquet,medium
+3,8 avenue de France,Paris,entry,2024-03-05,Cuisine,,low
+4,5 rue du Port,Saint-Denis,entry,2024-02-15,Salle de bain,,low
+5,5 rue du Port,Saint-Denis,exit,2024-12-20,Salle de bain,Joint usé,low
